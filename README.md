@@ -15,3 +15,6 @@ IoT devices mentioned in the paper are affected. More generally, for IoT devices
 
 ## How widespread are these vulnerabilities?
 In our paper's Table 2, we record Google Play installation counts of the companion apps as of the publication date of the paper. Every researched app has around 10k+ to 5M+ installations, and the sum is more than 8 million installations. We did not count in Apple App Store installation numbers, and we could not enumerate all MaaG IoT devices on the market, so these vulnerabilities actually impact significantly more people/families than expected. 
+
+## Are these vulnerabilities fixable? 
+Unfortunately, they can not be easily fixed because MaaG IoT attacks exploit design-level errors. In our paper, we provide a novel cryptographic access control protocol as a more secure prototype design. It is likely that affected vendors have to follow such novel design to improve the security of their products. However, this can be cumbersome and may involve product software/firmware updates and/or recalls. 
