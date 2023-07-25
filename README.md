@@ -4,7 +4,7 @@ Does your IoT device suffer from MaaG IoT attacks? Check out!
 # Introduction
 In the year of 2022, we found novel attacks for MaaG IoT devices. MaaG IoT devices (e.g., Bluetooth smart locks and Bluetooth item trackers) do NOT DIRECTLY connect to their respective IoT servers on the internet. Instead, they connect first to a user's mobile device using Bluetooth. Then, their respective companion apps dial SSL/TLS connections to the IoT servers to receive access control commands. We call this unique network architecture "Mobile-as-a-Gateway IoT". 
 
-These devices allow access sharing, which means an owner can possibly invite other users (guests) to control their MaaG IoT device. However, this becomes an attack surface unfortunately. A guest user can thus modify their app logic (through dynamic instrumentation) to modify their MaaG IoT device's access control policies (which decides if a user can access the device), so that the guest user can escalate to owner privilege, maintain access to the device forever, etc.
+These devices allow access sharing, which means an owner can possibly invite other users (guests) to control their MaaG IoT device. However, this becomes an attack surface unfortunately. A guest user can thus modify their app logic (through dynamic instrumentation) to modify their MaaG IoT device's access control policies (which decide if a user can access the device), so that the guest user can escalate to owner privilege, maintain access to the device forever, etc.
 
 # Affected Vendors/Products
 [Chipolo ONE](https://chipolo.net/en-us/products/chipolo-one) [[writeup]](https://github.com/zhouxinan/CCS22MaaGIoT/blob/main/ChipoloONE.md)
