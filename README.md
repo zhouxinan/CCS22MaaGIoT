@@ -6,6 +6,12 @@ In the year of 2022, we found novel attacks for MaaG IoT devices. MaaG IoT devic
 
 These devices allow access sharing, which means an owner can possibly invite other users (guests) to control their MaaG IoT device. However, this becomes an attack surface unfortunately. A guest user can thus modify their app logic (through dynamic instrumentation) to modify their MaaG IoT device's access control policies (which decide if a user can access the device), so that the guest user can escalate to owner privilege, maintain access to the device forever, etc.
 
+# Publication
+Perils and Mitigation of Security Risks of Cooperation in Mobile-as-a-Gateway IoT ![[PDF]](https://www.cs.ucr.edu/%7Ezhiyunq/pub/ccs22_iot.pdf)\
+Xin'an Zhou, Jiale Guan, Luyi Xing, Zhiyun Qian\
+Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security.\
+**Pwnie Award Nomination for Most Under-hyped Research**
+
 # Affected Vendors/Products
 [Chipolo ONE](https://chipolo.net/en-us/products/chipolo-one) [[writeup]](https://github.com/zhouxinan/CCS22MaaGIoT/blob/main/ChipoloONE.md)
 
