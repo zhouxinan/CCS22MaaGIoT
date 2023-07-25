@@ -22,7 +22,7 @@ In our paper's Table 2, we record Google Play installation counts of the compani
 No, possibly. The attacks allow surreptitious privilege escalations not noticeable to MaaG IoT device owners. 
 
 ## Are they design flaws?
-Yes, they are design-level errors not easily patchable. Simply speaking, an MaaG IoT device uses a mobile device as a Bluetooth-to-TLS gateway. Without the protection of cryptographic communication protocols, an MaaG IoT device can easily suffer from untrusted modification of on-device access policies. 
+Yes, they are design-level errors not easily patchable. Simply speaking, an MaaG IoT device uses a mobile device as a Bluetooth-to-TLS gateway. Without the protection of cryptographic communication protocols, an MaaG IoT device can suffer from untrusted modification of on-device access policies. 
 
 ## Are these vulnerabilities fixable? 
 Unfortunately, they can not be easily fixed because MaaG IoT attacks exploit design-level errors. In our paper, we provide a novel cryptographic access control protocol as a more secure prototype design. It is likely that affected vendors have to follow such novel design to improve the security of their products. However, this can be cumbersome and may involve product software/firmware updates and/or recalls. 
