@@ -36,3 +36,6 @@ Yes, they are design-level errors not easily patchable. Simply speaking, an MaaG
 
 ## Are these vulnerabilities fixable? 
 Unfortunately, they can not be easily fixed because MaaG IoT attacks exploit design-level errors. In our paper, we provide a novel cryptographic access control protocol as a more secure prototype design. It is likely that affected vendors have to follow such novel design to improve the security of their products. However, this can be cumbersome and may involve product software/firmware updates and/or recalls. 
+
+## How did the vendors respond generally?
+The vendors all responded very slowly. Almost all vendors spent more than one month for the establishment of a trusted communication channel. Some vendors were willing to collaborate but others were not. Some vendors even denied that the vulnerabilities existed for their products. Generally, the smart lock and the item tracker industry wanted to keep the failed designs a secret and did not want them to affect their fame. 
