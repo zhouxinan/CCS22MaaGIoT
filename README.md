@@ -19,6 +19,8 @@ Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Sec
 
 [Level](https://level.co/products/lock) [[writeup]](https://github.com/zhouxinan/CCS22MaaGIoT/blob/main/Level.md)
 
+[Kwikset Aura](https://www.kwikset.com/aura) [[writeup]](https://github.com/zhouxinan/CCS22MaaGIoT/blob/main/KwiksetAura.md)
+
 More products to come...
 
 # Q&A
