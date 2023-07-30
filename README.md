@@ -13,15 +13,15 @@ Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Sec
 **Pwnie Award Nomination for Most Under-hyped Research**
 
 # Affected Vendors/Products
-[Chipolo ONE](https://chipolo.net/en-us/products/chipolo-one) [[writeup]](https://github.com/zhouxinan/CCS22MaaGIoT/blob/main/ChipoloONE.md)
+[Chipolo ONE](https://chipolo.net/en-us/products/chipolo-one) [[writeup]](https://maag-iot.xinanzhou.com/ChipoloONE)
 
-[August](https://august.com/products/august-wifi-smart-lock) and [Yale Assure Lock Touchscreen](https://www.yalehome.com/us/en/products/keypads-and-smart-locks) [[writeup]](https://github.com/zhouxinan/CCS22MaaGIoT/blob/main/August%26Yale.md)
+[August](https://august.com/products/august-wifi-smart-lock) and [Yale Assure Lock Touchscreen](https://www.yalehome.com/us/en/products/keypads-and-smart-locks) [[writeup]](https://maag-iot.xinanzhou.com/August%26Yale)
 
-[Level](https://level.co/products/lock) [[writeup]](https://github.com/zhouxinan/CCS22MaaGIoT/blob/main/Level.md)
+[Level](https://level.co/products/lock) [[writeup]](https://maag-iot.xinanzhou.com/Level)
 
-[Kwikset Aura](https://www.kwikset.com/aura) [[writeup]](https://github.com/zhouxinan/CCS22MaaGIoT/blob/main/KwiksetAura.md)
+[Kwikset Aura](https://www.kwikset.com/aura) [[writeup]](https://maag-iot.xinanzhou.com/KwiksetAura)
 
-[Tile](https://www.tile.com/products/tile-pro) [[writeup]](https://github.com/zhouxinan/CCS22MaaGIoT/blob/main/Tile.md)
+[Tile](https://www.tile.com/products/tile-pro) [[writeup]](https://maag-iot.xinanzhou.com/Tile)
 
 More products to come...
 
