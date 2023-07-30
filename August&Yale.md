@@ -1,3 +1,5 @@
+# August and Yale MaaG IoT Attack
+
 # Vulnerability Description
 For affected August and Yale smart locks, after an owner invitee is invited to access the lock, the owner invitee can have his own offline key onto the lock. However, there
 lacks a reliable protocol for the cloud to fully monitor the addition, existence, or revocation of such offline key. 
