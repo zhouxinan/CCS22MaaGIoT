@@ -12,6 +12,10 @@ Xin'an Zhou, Jiale Guan, Luyi Xing, Zhiyun Qian\
 Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security.\
 **Pwnie Award Nomination for Most Under-hyped Research**
 
+Dilemma in IoT Access Control: Revealing Novel Attacks and Design Challenges in Mobile-as-a-Gateway IoT [[Link]](https://www.blackhat.com/asia-23/briefings/schedule/index.html#dilemma-in-iot-access-control-revealing-novel-attacks-and-design-challenges-in-mobile-as-a-gateway-iot-31040) [[PDF]](http://i.blackhat.com/Asia-23/AS-23-Xing-Dilemma-In-IoT-Access-Control.pdf)\
+Luyi Xing, Xin'an Zhou, Jiale Guan, Zhiyun Qian\
+Black Hat Asia 2023
+
 # Affected Vendors/Products
 [Chipolo ONE](https://chipolo.net/en-us/products/chipolo-one) [[writeup]](https://maag-iot.xinanzhou.com/ChipoloONE)
 
