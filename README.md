@@ -1,5 +1,5 @@
 # Mobile-as-a-Gateway IoT Attacks
-Does your IoT device suffer from MaaG IoT attacks? Check out!
+Do you know your smart lock can be hacked? Check out!
 
 # Introduction
 In the year of 2022, we found novel attacks for MaaG IoT devices. MaaG IoT devices (e.g., Bluetooth smart locks and Bluetooth item trackers) do NOT DIRECTLY connect to their respective IoT servers on the internet. Instead, they connect first to a user's mobile device using Bluetooth. Then, their respective companion apps dial SSL/TLS connections to the IoT servers to receive access control commands. We call this unique network architecture "Mobile-as-a-Gateway IoT". 
