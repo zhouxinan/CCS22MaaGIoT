@@ -29,7 +29,7 @@ IoT devices mentioned in the paper are affected. More generally, for IoT devices
 In our paper's Table 2, we record Google Play installation counts of the companion apps as of the publication date of the paper. Every researched app has around 10k+ to 5M+ installations, and the sum is more than 8 million installations. We did not count in Apple App Store installation numbers, and we could not enumerate all MaaG IoT devices on the market, so these vulnerabilities actually impact significantly more people/families than expected. 
 
 ## Can I notice that I was attacked?
-No, possibly. The attacks allow surreptitious privilege escalations not noticeable to MaaG IoT device owners. 
+No, possibly. The attacks allow surreptitious privilege escalations not easily noticeable to MaaG IoT device owners. Device owners should be careful not to share any access of their MaaG IoT devices to untrusted people to avoid getting attacked. 
 
 ## Are they design flaws?
 Yes, they are design-level errors not easily patchable. Simply speaking, an MaaG IoT device uses a mobile device as a Bluetooth-to-TLS gateway. Without the protection of cryptographic communication protocols, an MaaG IoT device can suffer from untrusted modification of on-device access policies. 
