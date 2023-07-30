@@ -21,6 +21,8 @@ Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Sec
 
 [Kwikset Aura](https://www.kwikset.com/aura) [[writeup]](https://github.com/zhouxinan/CCS22MaaGIoT/blob/main/KwiksetAura.md)
 
+[Tile](https://www.tile.com/products/tile-pro) [[writeup]](https://github.com/zhouxinan/CCS22MaaGIoT/blob/main/Tile.md)
+
 More products to come...
 
 # Q&A
