@@ -1,4 +1,4 @@
-# CCS22MaaGIoT
+# Mobile-as-a-Gateway IoT Attacks
 Does your IoT device suffer from MaaG IoT attacks? Check out!
 
 # Introduction
