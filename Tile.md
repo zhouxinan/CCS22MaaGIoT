@@ -1,3 +1,5 @@
+# Tile MaaG IoT Attack
+
 # Vulnerability Description
 
 Tile's access sharing functionality has a vulnerability. A trusted owner can remotely share Tile access to another user, who may be a potential attacker. The attacker's mobile phone operating system is untrusted and the attacker can extract the Tile authentication secret from the mobile app, and possibly reuse it to control the Tile device even after the trusted owner has revoked the attacker's access from the server side.
